@@ -26,11 +26,11 @@ A.7-A Class name can be used by multiple HTML elements,while an ID name must onl
 
 Q.8-What are the various formatting tags in HTML?
 A.8-<b> To Bold text
-    <strong> Same as <b>
+    <strong> Same as <b> For SEO Purpose, we use <strong>
     <i> To Italic the text
-    <em> Same as <i>
+    <em> Same as <i> For SEO purpose, we use <em>-emphasis
     <u> To underline the text
-    <ins> Same as <u>
+    <ins> Same as <u> For SEO purpose, we use <u>-underline
 
 Q.9-How is Cell Padding different from Cell Spacing?
 A.9-Cell padding is the space between the cell edges and the cell content. By default the padding is set to 0. To add padding on table cells, use the CSS padding property:
